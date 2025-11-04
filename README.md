@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 Hi, I'm Miethali Kulkarni 
 🎯 Quality Engineer Analyst | Python Developer | Automation Enthusiast 
 📍 Pune, India
@@ -60,4 +57,3 @@ GenAI for Test Automation – Accenture
 💼 LinkedIn: linkedin.com/in/miethali-kulkarni-31295b274/ 
 💻 GitHub: github.com/Miethalik24 
 🧠 LeetCode: leetcode.com/u/MiethaliKulkarni/
--->
