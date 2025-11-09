@@ -5,17 +5,21 @@ Hi, I'm Miethali Kulkarni
 📍 Pune, India
 ***
 🚀 About Me 
+
 I’m a passionate Quality Engineer with hands-on experience in test automation, SAP testing, and Python scripting.
 I enjoy designing efficient automation frameworks, simplifying workflows, and delivering high-quality software with precision and creativity.
 Currently working at Accenture and exploring advanced Tosca, Selenium, and API testing techniques.
 ***
 Automation & Testing 
+
 🧩 Tosca · 💻 Selenium · 🧪 Manual & API Testing · 🧰 Test Design & Execution
 ***
 Programming & Tools 
+
 🐍 Python · 🧱 Django · ⚙️ REST APIs · 🗃️ SQL · 🧠 PyAutoGUI · 🧱 Excel Automation · 🗃️ SQL & PL/SQL · 🌐 HTML, CSS, JavaScript
 ***
 Platforms & Environment
+
 💼 SAP (ECC / S4HANA) · 🪟 Windows · ☁️ Citrix VDI · 🔄 Git & GitHub · 🐧 Linux (Ubuntu) · 🧩 Git & GitHub
 ***
 Core Competencies:
@@ -46,15 +50,18 @@ CI/CD Pipelines
 🧳 PortfolioHub – Developer Portfolio Website Role: Frontend Developer Description: Built and deployed a responsive portfolio website showcasing my projects, skills, and GitHub contributions dynamically. Tech Stack: React, Tailwind CSS
 ***
 🏅 Certifications 
+
 Tricentis Tosca Automation Specialist – Tricentis 
 Playwright Advanced Automation – Udemy 
 Data Analytics with Python – Great Learning 
 GenAI for Test Automation – Accenture
 ***
 🧠 Interests 
+
 💡 Software Development | 🔐 Cyber Security | 🤖 Artificial Intelligence | 💻 Test Automation | 🧠 AI in QA | 🔍 API Testing | 🧩 Framework Design | 🌍 Web Development
 ***
 📫 Connect With Me 
+
 📧 Email: miethalikulkarni@gmail.com 
 💼 LinkedIn: linkedin.com/in/miethali-kulkarni-31295b274/ 
 💻 GitHub: github.com/Miethalik24 
