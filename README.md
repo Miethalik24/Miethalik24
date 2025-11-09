@@ -9,10 +9,10 @@ Currently working at Accenture and exploring advanced Tosca, Selenium, and API t
 ---
 Automation & Testing 
 🧩 Tosca · 💻 Selenium · 🧪 Manual & API Testing · 🧰 Test Design & Execution
-
+***
 Programming & Tools 
 🐍 Python · 🧱 Django · ⚙️ REST APIs · 🗃️ SQL · 🧠 PyAutoGUI · 🧱 Excel Automation · 🗃️ SQL & PL/SQL · 🌐 HTML, CSS, JavaScript
-
+***
 Platforms & Environment
 💼 SAP (ECC / S4HANA) · 🪟 Windows · ☁️ Citrix VDI · 🔄 Git & GitHub · 🐧 Linux (Ubuntu) · 🧩 Git & GitHub
 
