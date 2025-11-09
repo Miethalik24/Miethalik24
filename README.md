@@ -1,5 +1,7 @@
 Hi, I'm Miethali Kulkarni 
+---
 🎯 Quality Engineer Analyst | Python Developer | Automation Enthusiast 
+---
 📍 Pune, India
 ***
 🚀 About Me 
