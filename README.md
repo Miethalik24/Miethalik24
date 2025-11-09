@@ -1,12 +1,12 @@
 Hi, I'm Miethali Kulkarni 
 🎯 Quality Engineer Analyst | Python Developer | Automation Enthusiast 
 📍 Pune, India
-
+---
 🚀 About Me 
 I’m a passionate Quality Engineer with hands-on experience in test automation, SAP testing, and Python scripting.
 I enjoy designing efficient automation frameworks, simplifying workflows, and delivering high-quality software with precision and creativity.
 Currently working at Accenture and exploring advanced Tosca, Selenium, and API testing techniques.
-
+---
 Automation & Testing 
 🧩 Tosca · 💻 Selenium · 🧪 Manual & API Testing · 🧰 Test Design & Execution
 
