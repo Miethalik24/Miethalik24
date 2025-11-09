@@ -1,7 +1,7 @@
 Hi, I'm Miethali Kulkarni 
----
+
 🎯 Quality Engineer Analyst | Python Developer | Automation Enthusiast 
----
+
 📍 Pune, India
 ***
 🚀 About Me 
@@ -51,9 +51,12 @@ CI/CD Pipelines
 ***
 🏅 Certifications 
 
-Tricentis Tosca Automation Specialist – Tricentis 
+Tricentis Tosca Automation Specialist – Tricentis
+
 Playwright Advanced Automation – Udemy 
-Data Analytics with Python – Great Learning 
+
+Data Analytics with Python – Great Learning
+
 GenAI for Test Automation – Accenture
 ***
 🧠 Interests 
@@ -63,6 +66,9 @@ GenAI for Test Automation – Accenture
 📫 Connect With Me 
 
 📧 Email: miethalikulkarni@gmail.com 
+
 💼 LinkedIn: linkedin.com/in/miethali-kulkarni-31295b274/ 
+
 💻 GitHub: github.com/Miethalik24 
+
 🧠 LeetCode: leetcode.com/u/MiethaliKulkarni/
